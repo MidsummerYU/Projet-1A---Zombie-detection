@@ -1,0 +1,1 @@
+The project aims to detect zombies by using sensors to measure the speed, heart rate, and temperature of individuals. These data are then analyzed to differentiate between zombies and humans, and the results are displayed on a screen.
